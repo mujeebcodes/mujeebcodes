@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 
 ## Contact
 
-- Email: [your.email@example.com](mailto:diplomatmujeeb@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mujeeb-adetokunbo/)
-- Twitter: [@yourusername](https://twitter.com/diplomatmujeeb)
+- Email: [My Email](mailto:diplomatmujeeb@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/mujeeb-adetokunbo/)
+- Twitter: [My Twitter_Profile](https://twitter.com/diplomatmujeeb)
 
 ## GitHub Stats
 
