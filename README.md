@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in web d
 - 🌱 I’m currently learning Full stack web development with JavaScript/TypeScript.
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about web development and collaboration.
-- 📫 How to reach me: diplomatmujeeb@gmail.com | [LinkedIn](https://www.linkedin.com/in/mujeeb-adetokunbo/) | [Twitter](https://twitter.com/diplomatmujeeb)
+- 📫 How to reach me: [My Email](mailto:diplomatmujeeb@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mujeeb-adetokunbo/) | [Twitter](https://twitter.com/diplomatmujeeb)
 
 ## Skills
 
